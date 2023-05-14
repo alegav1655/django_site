@@ -12,8 +12,8 @@ Installation:
 
 1. Clone the repository:
 
-   git clone https://github.com/
-   alegav1655/django_site.git
+   git clone https://github.com/alegav1655/django_site.git
+
 
 2. Run the installation script:
 
