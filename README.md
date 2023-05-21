@@ -1,6 +1,6 @@
 Django Project Template
 
-This is a Django project template that provides a simple website with user registration and login functionality, designed to be deployed with Apache.
+This is a Django project template that provides a simple website with user registration and login functionality, designed to be deployed with Apache and MySQL.
 
 Features:
 
