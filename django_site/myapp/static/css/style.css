@@ -1,0 +1,82 @@
+/* Header styles */
+header {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main content styles */
+body {
+    font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Center the login and registration forms */
+form {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+/* Style form fields */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #ccc;
+}
+
+/* Style form submit button */
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Style error messages */
+.error-message {
+  color: red;
+}
+
+/* Style success messages */
+.success-message {
+  color: green;
+}
+
+/* Style link to registration page */
+.register-link {
+  display: block;
+  text-align: center;
+  margin-top: 12px;
+}
